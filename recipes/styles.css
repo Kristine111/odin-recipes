@@ -1,6 +1,8 @@
+body {font-family: 'Courier New', Courier, monospace;}
+
 div {
     color: white;
-    background-color: red;
+    background-color:rgb(32, 125, 32);
     font-size: 32px;
     font-weight: bold;
     text-align: center;
@@ -9,4 +11,12 @@ div {
 .springrolls {
     width: 350px;
     height: auto;
+    ;
 }
+
+button{
+     box-sizing: border-box;
+     background-color: orange; 
+     color: black;
+     font-size: 18px;  
+    }

@@ -1,3 +1,6 @@
+html {
+    background-color: bisque;
+}
 body {font-family: 'Courier New', Courier, monospace;}
 
 div {
@@ -11,13 +14,12 @@ div {
 .image {
     width: 350px;
     height: auto;
-    ;
+    align-items: center;
 }
 
 button{
      box-sizing: border-box;
      background-color: orange; 
      color: black;
-     font-size: 18px;  
-     align-content: center;
+     font-size: 18px;
     }
